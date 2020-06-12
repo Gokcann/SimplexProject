@@ -1,0 +1,5 @@
+C:\Users\vaio\Desktop\simplex_proje\bin\Debug\simplex_proje.exe.config
+C:\Users\vaio\Desktop\simplex_proje\bin\Debug\simplex_proje.exe
+C:\Users\vaio\Desktop\simplex_proje\bin\Debug\simplex_proje.pdb
+C:\Users\vaio\Desktop\simplex_proje\obj\Debug\simplex_proje.exe
+C:\Users\vaio\Desktop\simplex_proje\obj\Debug\simplex_proje.pdb
